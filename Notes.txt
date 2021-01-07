@@ -1,0 +1,34 @@
+css bawaan bootstrap :
+container //content berada ditengah// ukuran mengikuti grid option yang sudah di tentukan
+container-fluid //content full screen//
+class = "table"
+class = "form-control"
+
+
+table :
+div class ="row"
+	div class="col-md-1"
+
+1 baris maximal 12 kolom, jika lebih maka akan membuat baris baru
+
+**Ukuran Grid** breakpoint.html (Atur besar kecil browser)
+col-xl- //xlarge
+col-lg- //large
+col-md- //medium
+col-sm- //small
+col-
+
+
+Column Offset digunakan untuk mengatur jarak setiap kolom
+
+
+class ="img-fluid" -> digunakan untuk mengatur size gambar secara otomatis mengikuti ukuran browser
+
+
+class ="table" -> digunakan untuk membuat tampilan tabel secara terstruktur
+class ="table-striped" -> digunakan untuk membuat warna selang-seling antar data
+class ="table-hover" -> digunakan untuk membuat warna baris yang di sorot kursos menjadi lebih mencolok
+
+
+
+carousel digunakan untuk membuat slide ->carousel.html (script=jquery, popper, bootstrap.min.js)
